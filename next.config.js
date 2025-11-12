@@ -3,10 +3,7 @@ const nextConfig = {
   images: { unoptimized: true },
   experimental: {
     serverComponentsExternalPackages: ['mongodb'],
-    appDir: true,
   },
-  dynamic: 'force-dynamic', // ⬅️ add this line
-
   webpack(config, { dev }) {
     if (dev) {
       config.watchOptions = {
