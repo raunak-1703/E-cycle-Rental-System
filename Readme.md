@@ -6,9 +6,7 @@ Built with **Next.js 14**, **MongoDB Atlas**, and **shadcn/ui**, it supports bot
 ---
 
 ## 🌐 Live Demo
-*(Add your deployed URL here once ready)*  
-Example:  
-[https://campus-ecycle.vercel.app](https://campus-ecycle.vercel.app)
+[https://cycloan.vercel.app]
 
 ---
 
