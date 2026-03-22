@@ -2,8 +2,8 @@ export const dynamic = "force-dynamic";
 import './globals.css'
 
 export const metadata = {
-  title: 'Next.js MongoDB Template',
-  description: 'A simple template with App Router, MongoDB, and shadcn/ui',
+  title: 'Cycloan',
+  description: 'A cycle rental system',
 }
 
 export default function RootLayout({ children }) {
