@@ -1,25 +1,18 @@
-# CYCLOAN
+# 🚴‍♂️ Campus E-Cycle Rental System
 
-Smart campus e-cycle rental system built with Next.js, MongoDB, and Tailwind CSS. The platform lets students reserve, unlock, ride, and return electric cycles, while giving admins a control panel for stations, bikes, users, and trip analytics.
+A full-stack **Next.js + MongoDB** application for campus-based e-cycle rentals — allowing users to **book, unlock, ride, and return** electric cycles using a smart dock system.  
+Built with **Next.js 14**, **MongoDB Atlas**, and **shadcn/ui**, it supports both **User** and **Admin** functionalities, including real-time status tracking, wallet management, and analytics.
 
-[![Live Site](https://img.shields.io/badge/Live%20Demo-cycloan.vercel.app-16a34a?style=for-the-badge&logo=vercel)](https://cycloan.vercel.app)
-[![Website](https://img.shields.io/website?down_message=offline&label=deployment&logo=vercel&style=for-the-badge&up_message=live&url=https%3A%2F%2Fcycloan.vercel.app)](https://cycloan.vercel.app)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-18-149eca?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-0f9d58?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+---
 
-## Live Demo
+## 🌐 Live Demo
+*(Add your deployed URL here once ready)*  
+Example:  
+[https://campus-ecycle.vercel.app](https://campus-ecycle.vercel.app)
 
-Visit the deployed app here:
+---
 
-**https://cycloan.vercel.app**
-
-## Overview
-
-CYCLOAN is designed as a lightweight campus mobility platform. Users can authenticate, view available stations, reserve an e-cycle for a short hold period, unlock it, complete a ride, and pay using an in-app wallet. Admins can monitor usage and manage the fleet from a dedicated dashboard.
-
-## Key Features
+## 🧩 Features
 
 ### User features
 
